@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "version": "0.0.2",
-    "title": "Sample API updated!",
+    "title": "Pet Store API",
     "license": {
       "name": "MIT"
     }
